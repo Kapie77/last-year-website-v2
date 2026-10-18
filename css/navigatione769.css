@@ -1,0 +1,30 @@
+.wpml_cms_navigation .wpml_table th{    
+    background-color: #DFDFDF;
+    border-bottom:solid 1px #fff;
+    width:200px;  
+    border-collapse: collapse;  
+} 
+.wpml_cms_navigation .wpml_table tfoot th{
+    border-bottom:none;    
+    background: none;
+    background-color: #DFDFDF;
+}
+
+#icl_cat_menu_contents input{
+    margin-bottom: 4px;
+}
+
+/*
+     FILE ARCHIVED ON 09:16:32 Aug 14, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:41:08 Oct 14, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.442
+  load_resource: 9.966
+  PetaboxLoader3.datanode: 8.524
+*/

@@ -1,0 +1,53 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * nimbus-sans-condensed:
+ *   - http://typekit.com/eulas/000000000000000000010124
+ *   - http://typekit.com/eulas/000000000000000000010125
+ *   - http://typekit.com/eulas/000000000000000000010126
+ *
+ * © 2009-2019 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2018-07-18 18:27:16 UTC"}*/
+
+/*
+ * Nimbus Sans Condensed
+ * Fontes locais recuperadas do site original Last Year: The Nightmare.
+ * O original importava fonte daqui:
+ * @import url("../../../20190817183510cs_/https_/p.typekit.net/p9f8b.css?s=1&k=aul3ynu&ht=tk&f=10801.10802.10803&a=319313&app=typekit&e=css");
+ */
+
+/* Nimbus Sans Condensed — Regular */
+@font-face {
+    font-family: "nimbus-sans-condensed";
+    src: url("../fonts/nimbus-regular.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+/* Nimbus Sans Condensed — Bold */
+@font-face {
+    font-family: "nimbus-sans-condensed";
+    src: url("../fonts/nimbus-bold.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+}
+
+/* Nimbus Sans Condensed — Black */
+@font-face {
+    font-family: "nimbus-sans-condensed";
+    src: url("../fonts/nimbus-black.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+}
+
+/* Classe original do Adobe Typekit */
+.tk-nimbus-sans-condensed {
+    font-family: "nimbus-sans-condensed", sans-serif;
+}
